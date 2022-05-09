@@ -2,7 +2,7 @@
 
 
 - 🖥️ Procurando um estágio em desenvolvimento.
-- 📚 Estudando React e Typescript.
+- 📚 Estudando Java e C#.
 - 🤓 Cursando Engenharia da Computação.
 
 <div>
