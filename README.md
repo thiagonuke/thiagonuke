@@ -1,7 +1,5 @@
 ## Oii! eu sou Thiagonuke🧛
 
-
-- 🖥️ Procurando um estágio em desenvolvimento.
 - 📚 Estudando C# e ReactJs.
 - 🤓 Cursando Engenharia da Computação.
 
