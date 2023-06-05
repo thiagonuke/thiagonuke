@@ -1,6 +1,6 @@
 ## Oii! eu sou Thiagonuke🧛
 
-- 📚 Estudando C# e ReactJs.
+- 📚 Estudando Angular e Docker.
 - 🤓 Cursando Engenharia da Computação.
 
 <div>
