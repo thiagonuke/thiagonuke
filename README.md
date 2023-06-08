@@ -1,4 +1,4 @@
-## Oii! eu sou Thiagonuke🧛
+## Olá! eu sou Thiago Almeida
 
 - 📚 Estudando Angular e Docker.
 - 🤓 Cursando Engenharia da Computação.
