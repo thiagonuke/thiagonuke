@@ -1,6 +1,6 @@
 ## Olá! eu sou Thiago Almeida
 
-- 📚 Estudando Angular e Docker.
+- 👨‍💻 Desenvolvedor FullStack .NET
 - 🤓 Cursando Engenharia da Computação.
 
 <div>
